@@ -4,7 +4,7 @@ int main()
 	FILE *file, *target;
 	char ch;
 	file = fopen("D:\\det.txt","r");
-	target = fopen("info.txt","w");
+	target = fopen("infoo.txt","w");
 	if( file == NULL || target == NULL )
 	{
 		printf("\n Failed in Open File \n");

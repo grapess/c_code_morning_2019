@@ -28,3 +28,5 @@ const
 struct
 typedef
 union
+enum
+volatile
